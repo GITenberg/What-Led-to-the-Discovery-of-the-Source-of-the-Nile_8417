@@ -1,0 +1,29 @@
+_repo: What-Led-to-the-Discovery-of-the-Source-of-the-Nile_8417
+creator:
+  author:
+    agent_name: Speke, John Hanning
+    alias: Speke, J. H. (John Hanning)
+    birthdate: 1827
+    deathdate: 1864
+    gutenberg_agent_id: '1151'
+    url: http://www.gutenberg.org/2009/agents/1151
+    wikipedia: http://en.wikipedia.org/wiki/John_Hanning_Speke
+description: ''
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tanganyika, Lake'
+- !lcsh 'Horn of Africa -- Description and travel'
+- !lcsh 'Nile River'
+- !lcc 'DT'
+tableOfContents: Journal of adventures in Somali land -- Journal of a cruise on the
+  Tanganyika Lake.
+title: What Led to the Discovery of the Source of the Nile
+url: http://www.gutenberg.org/ebooks/8417
