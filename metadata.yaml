@@ -1,4 +1,8 @@
 _repo: What-Led-to-the-Discovery-of-the-Source-of-the-Nile_8417
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Speke, John Hanning
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1151
     wikipedia: http://en.wikipedia.org/wiki/John_Hanning_Speke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8417#What-Led-to-the-Discovery-of-the-Source-of-the-Nile
 gutenberg_bookshelf: Egypt
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
